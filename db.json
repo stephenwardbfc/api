@@ -1,9 +1,32 @@
 {
-  "category":
-  [
-    
-  ],
-  "tasks": [
-
+  "category": [
+    {
+      "name" : "Project 1",
+      "color" : "#ffd4b8",
+      "tasks" : [
+        {
+          "name" : "Task 1",
+          "items" : [
+            {
+              "name" : "Subtask 1"
+            },
+            {
+              "name" : "Subtask 2"
+            }
+          ]
+        },
+        {
+          "name" : "Task 2",
+          "items" : [
+            {
+              "name" : "Subtask 1"
+            },
+            {
+              "name" : "Subtask 2"
+            }
+          ]
+        }
+      ] 
+    }
   ]
 }
